@@ -1,4 +1,5 @@
 # NeuroPep 2.0: an updated database dedicated to neuropeptide and its receptor annotations
+[![NeuroPep - Version](https://img.shields.io/badge/NeuroPep-2.0-yellow)](http://isyslab.info/NeuroPepV2/) [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc63afcd3ef45d04829210e5992989e49e62d3306%3Ffields%3DcitationCount)](https://pdfs.semanticscholar.org/c63a/fcd3ef45d04829210e5992989e49e62d3306.pdf?_ga=2.220071961.1862318734.1670589604-901759561.1665192738) [![GitHub - LICENSE](https://img.shields.io/github/license/isyslab-hust/NeuroPep2.0.svg?style=flat)](./LICENSE) [![NeuroPep - Version](https://img.shields.io/badge/isyslab-developed-orange)](http://isyslab.info/) 
 
 ### New prediction tools
 
