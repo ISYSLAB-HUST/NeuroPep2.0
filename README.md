@@ -25,6 +25,12 @@
 - IUPHAR: https://www.guidetopharmacology.org
 - STRING: https://string-db.org
 - NeuroPep 1.0: http://isyslab.info/NeuroPep/
+- RCSB Protein Data Bank: https://www.rcsb.org
+
+### Physicochemical properties
+
+- EMBOSS Pepinfo: https://www.ebi.ac.uk/Tools/seqstats/emboss_pepinfo/
+- Compute pI/Mw tool: https://web.expasy.org/compute_pi/
 
 ### Web server
 
