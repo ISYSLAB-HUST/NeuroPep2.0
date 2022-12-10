@@ -34,6 +34,8 @@
 
 ### Web server
 
+The front-end of NeuroPep 2.0 server were build via HTML, JSP
+and Ajax, and the web services and data management were based Java and JDBC. 
 
 ### License
 Released under the Apache License.

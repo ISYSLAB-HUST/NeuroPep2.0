@@ -1,0 +1,82 @@
+#nullValDiv {
+    color: #F00;
+}
+
+.searchform {
+    margin: 10px;
+}
+
+#content label a {
+    font-weight: lighter;
+    color: #666;
+    text-decoration: none;
+}
+
+#content label a:hover {
+    font-weight: normal;
+    color: #06F;
+    text-decoration: none;
+}
+
+#content .labelText {
+    text-align: right;
+}
+
+#content td {
+    padding-left: 15px;
+}
+
+#resulttable td {
+    width: 320px;
+    padding-left: 10px;
+    color: #666;
+    border: 1px solid #ccc
+    line-height: 30px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+#resulttable th {
+    padding-left: 10px;
+    font-weight: normal;
+    text-align: left;
+    border: 1px solid #ccc
+    line-height: 30px;
+}
+
+#resulttable caption {
+    color: #666;
+}
+
+#resulttable a {
+    text-decoration: none;
+    color: #06F;
+}
+
+#resulttable a:hover {
+    text-decoration: none;
+    color: #F60;
+}
+
+.navSearch {
+    padding: 0px 0px 10px;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: right;
+}
+
+.navSearch a {
+    padding: 4px 12px 6px;
+    text-decoration: none;
+    color: #F60;
+    *padding: 4px 12px 6px;
+}
+
+.navSearch a:hover {
+    color: #06F;
+    *padding: 4px 12px 6px;
+}
+
+a span {
+    padding: 4px 16px 6px 0;
+}

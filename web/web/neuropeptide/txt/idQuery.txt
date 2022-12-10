@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NeuropeptideQuery>    
+
+    <queryType>org.pdb.neuropeptide.simple.IdQuery</queryType>
+
+    <description>Simple query for id Number: 225</description>   
+
+    <id>225</id>
+
+</NeuropeptideQuery>

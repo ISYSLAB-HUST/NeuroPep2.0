@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NeuropeptideQuery>    
+
+    <queryType>org.pdb.neuropeptide.simple.AccessionNumQuery</queryType>
+
+    <description>Simple query for accessionNum: NP00225</description>   
+
+    <accessionNum>NP00225</accessionNum>
+
+</NeuropeptideQuery>

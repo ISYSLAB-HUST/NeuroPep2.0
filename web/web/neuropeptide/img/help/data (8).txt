@@ -1,0 +1,249 @@
+ID	Sequence	Length	Organism	Family	Name
+NP00239	LYDFGL	6	Blattella germanica	Allatostatin	Allatostatin-1
+NP00249	PYDFGM	6	Calliphora vomitoria	Allatostatin	Met-callatostatin
+NP00315	YAFGL	5	Callinectes sapidus	Allatostatin	Allatostatin A
+NP00340	YAFGL	5	Cancer borealis	Allatostatin	Allatostatin A
+NP00341	YSFGL	5	Cancer borealis	Allatostatin	Allatostatin A
+NP00506	LPVYNF	6	Apis mellifera	Allatostatin	Allatostatin-2b
+NP00523	YSFGL	5	Carcinus maenas	Allatostatin	Carcinustatin-14
+NP00534	YAFGL	5	Carcinus maenas	Allatostatin	Carcinustatin-1
+NP00551	LYDFGL	6	Diploptera punctata	Allatostatin	Allatostatin-1
+NP00554	PFNFGL	6	Diploptera punctata	Allatostatin	Allatostatin-12
+NP00866	IPIYE	5	Rattus norvegicus	CART	Cocaine-amphetamine-regulated transcript protein
+NP01148	QGRFG	5	Anthopleura elegantissima	FMRFamide related peptide	Antho-RFamide
+NP01155	GYIRF	5	Bdelloura candida	FMRFamide related peptide	GYIRFamide
+NP01174	GYIRF	5	Dugesia tigrina	FMRFamide related peptide	GYIRFamide
+NP01175	GYIRF	5	Eudiplozoon nipponicum	FMRFamide related peptide	GYIRFamide
+NP01176	GNFFRF	6	Fasciola hepatica	FMRFamide related peptide	FMRFamide-related peptide
+NP01177	GYIRF	5	Fasciola hepatica	FMRFamide related peptide	GYIRFamide
+NP01192	DNFLRF	6	Helix aspersa	FMRFamide related peptide	FxRFamide related neuropeptide
+NP01206	HLRGRF	6	Hydra vulgaris	FMRFamide related peptide	Hydra-RFamide IV
+NP01227	EPYLRF	6	NA	FMRFamide related peptide	EPYLRFamide
+NP01241	YFMRF	5	Rattus norvegicus	FMRFamide related peptide	Tyr-FMRFamide
+NP01243	QGRFG	5	Renilla koellikeri	FMRFamide related peptide	Antho-RFamide
+NP01247	GYIRF	5	Schistosoma mansoni	FMRFamide related peptide	GYIRFamide
+NP01249	LPLRF	5	Sphyrna tiburo tiburo	FMRFamide related peptide	LPLRFamide
+NP01255	ANLMRF	6	Aedes aegypti	FMRFamide related peptide	FMRFa-6
+NP01270	STLFRF	6	Aplysia	FMRFamide related peptide	Aplysia FRF-C
+NP01343	AMMRFG	6	Caenorhabditis elegans	FMRFamide related peptide	FLP-20
+NP01357	VLMRFG	6	Caenorhabditis elegans	FMRFamide related peptide	FLP-28
+NP01394	GPFLRF	6	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01397	NFLRF	5	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01405	RNFLRF	6	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01406	RQFLRF	6	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01437	RNFLRF	6	Cancer borealis	FMRFamide related peptide	RFamide
+NP01438	RSFLRF	6	Cancer borealis	FMRFamide related peptide	RFamide
+NP01456	RNFLRF	6	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01475	AMVRF	5	Galleria mellonella	FMRFamide related peptide	Gam-Neuropeptide F
+NP01478	NFLRF	5	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01479	RNFLRF	6	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01518	NTLFRF	6	Lymnaea stagnalis	FMRFamide related peptide	FRF1
+NP01521	GTLLRF	6	Lymnaea stagnalis	FMRFamide related peptide	FRF4
+NP01522	TLFRF	5	Lymnaea stagnalis	FMRFamide related peptide	FRF6
+NP01544	NFLRF	5	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01573	RYIRF	5	Arthurdendyus triangulatus	FMRFamide related peptide	FMRFamide-like neuropeptide RYIRF-amide
+NP01625	PNFLRF	6	Caenorhabditis elegans	FMRFamide related peptide	PNFLRF-amide
+NP01626	PNFMRY	6	Caenorhabditis elegans	FMRFamide related peptide	PNFMRY-amide
+NP01707	AAMDRY	6	Drosophila melanogaster	FMRFamide related peptide	AAMDRY-amide
+NP01727	LPLRF	5	Gallus gallus	FMRFamide related peptide	FMRFamide-like neuropeptide
+NP01735	QFYRF	5	Helix aspersa	FMRFamide related peptide	QFYRF-amide
+NP01818	EFFPL	5	Lymnaea stagnalis	FMRFamide related peptide	EFFPL-amide
+NP01820	HDYMRF	6	Lymnaea stagnalis	FMRFamide related peptide	HDYMRF-amide
+NP01825	SSFPRY	6	Lymnaea stagnalis	FMRFamide related peptide	SSFPRY-amide
+NP01826	EFLRI	5	Lymnaea stagnalis	FMRFamide related peptide	EFLRIamide
+NP01830	QFYRI	5	Lymnaea stagnalis	FMRFamide related peptide	QFYRI-amide
+NP01850	GNFFRF	6	Moniezia expansa	FMRFamide related peptide	FMRFamide-like neuropeptide GNFFRF-amide
+NP02048	GWMDF	5	NA	Gastrin/cholecystokinin	Cholecystokinin 5
+NP02171	GWMDF	5	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-5
+NP02197	GWMDF	5	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02217	WMDFG	5	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02235	GWMDF	5	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02248	GWMDF	5	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02257	YGWMDF	6	Homo sapiens	Gastrin/cholecystokinin	Gastrin-6
+NP02545	WLRYDA	6	Ciona intestinalis	GnRH	t-GnRH-6
+NP02797	AFHSWG	6	Locusta migratoria	Kinin	Achetakinin V
+NP02801	AFSSWG	6	Periplaneta americana	Kinin	Lom-K
+NP02806	AFHSWG	6	Acheta domesticus	Kinin	Acd-K-5
+NP02811	YFSPWG	6	Galleria mellonella	Kinin	Hez-kinin-1
+NP02813	YFSPWG	6	Helicoverpa zea	Kinin	Hez-kinin-1
+NP02822	AFSSWG	6	Locusta migratoria	Kinin	Locustakinin-1
+NP02876	EQPGLW	6	Hydra vulgaris	LWamide neuropeptide	Hydra-LWamide
+NP02878	QHGLW	5	Actinia equina	LWamide neuropeptide	LWamide I (Potential)
+NP02879	QNPGLW	6	Actinia equina	LWamide neuropeptide	LWamide II (Potential)
+NP02881	QKAGLW	6	Actinia equina	LWamide neuropeptide	LWamide IV (Potential)
+NP02884	QPGLW	5	Actinia equina	LWamide neuropeptide	Metamorphosin A
+NP02886	ERIGIW	6	Anemonia sulcata	LWamide neuropeptide	IWamide (Potential)
+NP02887	QAGLW	5	Anemonia sulcata	LWamide neuropeptide	LWamide I (Potential)
+NP02888	QNPGLW	6	Anemonia sulcata	LWamide neuropeptide	LWamide II a (Potential)
+NP02889	QHPGLW	6	Anemonia sulcata	LWamide neuropeptide	LWamide II b (Potential)
+NP02890	QQPGLW	6	Anemonia sulcata	LWamide neuropeptide	Metamorphosin A
+NP02891	QNPGLW	6	Anthopleura elegantissima	LWamide neuropeptide	LWamide I (Potential)
+NP02892	QPGLW	5	Anthopleura elegantissima	LWamide neuropeptide	LWamide III (Potential)
+NP02893	QKIGLW	6	Anthopleura elegantissima	LWamide neuropeptide	LWamide IV (Potential)
+NP02894	QLGLW	5	Anthopleura elegantissima	LWamide neuropeptide	LWamide IX (Potential)
+NP02895	QSPGLW	6	Anthopleura elegantissima	LWamide neuropeptide	LWamide VII (Potential)
+NP02897	QQPGLW	6	Anthopleura elegantissima	LWamide neuropeptide	Metamorphosin A
+NP02898	RPPGLW	6	Hydractinia echinata	LWamide neuropeptide	LWamide I (Potential)
+NP02899	KPPGLW	6	Hydractinia echinata	LWamide neuropeptide	LWamide II (Potential)
+NP02951	RLRFH	5	Aplysia californica	Molluscan ELH	Beta-bag cell peptide
+NP02961	RLRFD	5	Aplysia californica	Molluscan ELH	Gamma-bag cell peptide
+NP02973	RLRFH	5	Aplysia parvula	Molluscan ELH	Beta-bag cell peptide
+NP02975	RIRFN	5	Aplysia parvula	Molluscan ELH	Gamma-bag cell peptide
+NP02976	RIRFH	5	Aplysia parvula	Molluscan ELH	Gamma-bag cell peptide
+NP02978	RLRFH	5	Lymnaea stagnalis	Molluscan ELH	Beta-1-CDCP
+NP02979	RLRAS	5	Lymnaea stagnalis	Molluscan ELH	Beta-2-CDCP
+NP02980	RLRFN	5	Lymnaea stagnalis	Molluscan ELH	Beta-3-CDCP
+NP03058	HVFLRF	6	Callinectes sapidus	Myosuppressin	Myosuppressin
+NP03098	ESLRW	5	Anthopleura elegantissima	NA	Antho-RWamide I
+NP03102	RYLPT	5	Arthropoda	NA	Proctolin
+NP03103	RYLPT	5	Blaberus craniifer	NA	Proctolin
+NP03105	SFRNGV	6	Branchiostoma floridae	NA	SFRNGVamide
+NP03106	ESLRW	5	Calliactis parasitica	NA	Antho-RWamide I
+NP03107	EGLRW	5	Calliactis parasitica	NA	Antho-RWamide II
+NP03108	ELGRF	5	Callinectes sapidus	NA	CP2
+NP03109	RYLPT	5	Calliphora vicina	NA	Proctolin
+NP03112	NGFFF	5	Caudina arenicola	NA	NGFFFamide
+NP03116	RYLPT	5	Drosophila melanogaster	NA	Proctolin
+NP03118	GSPYFV	6	Helix pomatia	NA	GSPYFVamide
+NP03124	RYLPT	5	Leptinotarsa decemlineata	NA	Proctolin
+NP03125	RYLPT	5	Litopenaeus vannamei	NA	Proctolin
+NP03128	RYLPT	5	Locusta migratoria	NA	Proctolin
+NP03129	RYLPT	5	Lumbricus terrestris	NA	Proctolin
+NP03132	GAPRFV	6	Lymnaea stagnalis	NA	Lymnaea inhibitory peptide
+NP03144	MYECG	5	NA	NA	Nontoxic neuropeptide
+NP03158	HWAWFK	6	Rattus norvegicus	NA	Hexarelin
+NP03161	MEHFKF	6	Rattus norvegicus	NA	ORG 2766
+NP03165	NGFFF	5	Saccoglossus kowalevskii	NA	NGFFFamide
+NP03166	PKYMDT	6	Schistocerca gregaria	NA	PKYMDT
+NP03167	GFVRI	5	Schistosoma mansoni	NA	NPP-1 peptide
+NP03168	TSKYR	5	Spermophilus undulatus	NA	Neokyotorphin
+NP03169	NGIWY	5	Stichopus japonicus	NA	NGIWYamide
+NP03170	RYLPT	5	Tenebrio molitor	NA	Proctolin
+NP03332	RYLPT	5	Callinectes sapidus	NA	Proctolin
+NP03341	RYLPT	5	Cancer borealis	NA	Proctolin
+NP03348	FQSLF	5	Ciona intestinalis	NA	Ci-LF-1
+NP03370	KNPYIL	6	Ciona intestinalis	NA	LANT 6
+NP03378	RYLMT	5	Daphnia pulex	NA	Met4-Proctolin
+NP03379	RYLPT	5	Daphnia pulex	NA	Proctolin
+NP03381	AFVRI/L	5	Eisenia foetida	NA	AFVRI/Lamide
+NP03382	APFPRI/L	6	Eisenia foetida	NA	APFPRI/Lamide
+NP03383	SFVRI/L	5	Eisenia foetida	NA	SFVRI/Lamide
+NP03385	SPLPRI/L	6	Eisenia foetida	NA	SPLPRI/Lamide
+NP03395	RYLPT	5	Homarus americanus	NA	Proctolin
+NP03397	RYLPT	5	Ixodes scapularis	NA	Proctolin
+NP03404	RYLPT	5	Ocypode ceratophthalma	NA	Proctolin
+NP03413	FDFHTV	6	Sarcophaga bullata	NA	Neb-TVamide
+NP03414	RYLPT	5	Sarcophaga bullata	NA	Proctolin
+NP03457	MPFDL	5	Aplysia californica	NA	CP2-derived peptide 2
+NP03463	FSQAQG	6	Aplysia californica	NA	CP2-derived peptide 8
+NP03495	AAPRFF	6	Aplysia californica	NA	AAPRFF-amide
+NP03498	GAPRFI	6	Aplysia californica	NA	GAPRFI-amide
+NP03499	GAPRFL	6	Aplysia californica	NA	GAPRFL-amide
+NP03500	GAPRFV	6	Aplysia californica	NA	GAPRFV-amide
+NP03501	GPPRFI	6	Aplysia californica	NA	GPPRFI-amide
+NP03503	GSPHFI	6	Aplysia californica	NA	GSPHFI-amide
+NP03504	GSPRFF	6	Aplysia californica	NA	GSPRFF-amide
+NP03506	QAPRFF	6	Aplysia californica	NA	QAPRFF-amide
+NP03507	QAPRFI	6	Aplysia californica	NA	QAPRFI-amide
+NP03508	SDPFFM	6	Aplysia californica	NA	SDPFFM-amide
+NP03509	AREFV	5	Aplysia californica	NA	AREFV-amide
+NP03510	IREFV	5	Aplysia californica	NA	IREFV-amide
+NP03511	PRQFV	5	Aplysia californica	NA	PRQFV-amide
+NP03512	VRDFV	5	Aplysia californica	NA	VRDFV-amide
+NP03513	VREFV	5	Aplysia californica	NA	VREFV-amide
+NP03522	RYLPT	5	Carcinus maenas	NA	Proctolin
+NP03525	LLTSL	5	Cardisoma carnifex	NA	Neuropeptide E
+NP03553	IAYKPE	6	Leptinotarsa decemlineata	NA	Oviductal motility-stimulating peptide
+NP03554	RYLPT	5	Limulus polyphemus	NA	Proctolin
+NP03576	RYLPT	5	Periplaneta americana	NA	Proctolin
+NP03591	FNEFV	5	Achatina fulica	NA	Fulicin
+NP03762	RRPYIL	6	NA	Neurotensin	Neurotensin
+NP03766	RKPWLL	6	Rattus norvegicus	Neurotensin	Neurotensin
+NP03768	KIPYIL	6	Ciona intestinalis	Neurotensin	Neuromedin N
+NP03774	KIPYIL	6	Canis familiaris	Neurotensin	Neuromedin N
+NP03777	GSYYY	5	Canis familiaris	Neurotensin	Tail peptide (Potential)
+NP03779	KIPYIL	6	Bos taurus	Neurotensin	Neuromedin N
+NP03781	GSYYY	5	Bos taurus	Neurotensin	Tail peptide (Potential)
+NP03783	IPYIL	5	Homo sapiens	Neurotensin	Neuromedin N
+NP03785	DSYYY	5	Homo sapiens	Neurotensin	Tail peptide (Potential)
+NP03787	KIPYIL	6	Mus musculus	Neurotensin	Neuromedin N
+NP03789	GSYYY	5	Mus musculus	Neurotensin	Tail peptide (Potential)
+NP03791	KIPYIL	6	Rattus norvegicus	Neurotensin	Neuromedin N
+NP03793	ASYYY	5	Rattus norvegicus	Neurotensin	Tail peptide (Potential)
+NP03910	RARPRF	6	Penaeus monodon	NPY	Peptide tyrosine phenylalanine 1
+NP03973	FYANRY	6	Callinectes sapidus	NPY	RYamide
+NP03974	FYSQRY	6	Callinectes sapidus	NPY	RYamide
+NP03984	FVNSRY	6	Cancer borealis	NPY	RYamide
+NP03985	FYANRY	6	Cancer borealis	NPY	RYamide
+NP03986	FYSQRY	6	Cancer borealis	NPY	RYamide
+NP03991	FYANRY	6	Carcinus maenas	NPY	RYamide
+NP03992	FYSQRY	6	Carcinus maenas	NPY	RYamide
+NP04009	FYANRY	6	Ocypode ceratophthalma	NPY	RYamide
+NP04010	FYSQRY	6	Ocypode ceratophthalma	NPY	Ryamide
+NP04031	YGGFL	5	Aplysia californica	Opioid	Leu-enkephalin
+NP04044	YAGFL	5	NA	Opioid	DADLE
+NP04049	APGPR	5	NA	Opioid	Enterostatin 
+NP04054	YSGFLT	6	Oryctolagus cuniculus	Opioid	Enkephalin
+NP04060	YGGFF	5	Protopterus annectens	Opioid	Phe-enkephalin
+NP04062	YPFPGP	6	Rattus norvegicus	Opioid	beta-casomorphin-7
+NP04067	YGGFM	5	Theromyzon tessulatum	Opioid	Met-enkephalin
+NP04068	YGGFI	5	Xenopus laevis	Opioid	Ile-enkephalin
+NP04091	YGGFL	5	Bos taurus	Opioid	Leu-enkephalin
+NP04095	YGGFM	5	Bos taurus	Opioid	Met-enkephalin
+NP04111	YGGFL	5	Cavia porcellus	Opioid	Leu-Enkephalin
+NP04114	YGGFM	5	Cavia porcellus	Opioid	Met-Enkephalin
+NP04121	YGGFL	5	Felis catus	Opioid	Leu-enkephalin
+NP04122	YGGFM	5	Felis catus	Opioid	Met-enkephalin
+NP04129	YGGFL	5	Homo sapiens	Opioid	Leu-enkephalin
+NP04132	YGGFM	5	Homo sapiens	Opioid	Met-enkephalin
+NP04142	YGGFL	5	Mesocricetus auratus	Opioid	Leu-enkephalin
+NP04143	YGGFM	5	Mesocricetus auratus	Opioid	Met-enkephalin
+NP04156	YGGFL	5	Mus musculus	Opioid	Leu-enkephalin
+NP04159	YGGFM	5	Mus musculus	Opioid	Met-enkephalin
+NP04175	YGGFL	5	Rattus norvegicus	Opioid	Leu-enkephalin
+NP04178	YGGFM	5	Rattus norvegicus	Opioid	Met-enkephalin
+NP04194	YGGFL	5	Sus scrofa	Opioid	Leu-enkephalin
+NP04198	YGGFM	5	Xenopus laevis	Opioid	Met-enkephalin
+NP04440	SPFPRI/L	6	Eisenia foetida	Periviscerokinin	SPFPRI/Lamide
+NP04723	YGGFM	5	Acipenser transmontanus	POMC	Met-enkephalin (By similarity)
+NP04731	YGGFM	5	Camelus dromedarius	POMC	Met-enkephalin
+NP04748	YGGFM	5	Cyprinus carpio	POMC	Met-enkephalin
+NP04761	YGGFM	5	Lepisosteus osseus	POMC	Met-enkephalin (By similarity)
+NP04771	YGGFM	5	Lithobates catesbeiana	POMC	Met-enkephalin (By similarity)
+NP04779	YGGFM	5	Loxodonta africana	POMC	Met-enkephalin
+NP04790	YGGFM	5	Macaca nemestrina	POMC	Met-enkephalin
+NP04798	YGGFM	5	Neovison vison	POMC	Met-enkephalin
+NP04805	YGGFM	5	Oncorhynchus keta	POMC	Met-enkephalin
+NP04814	YGGFM	5	Oncorhynchus mykiss	POMC	Met-enkephalin (By similarity)
+NP04837	YGGFM	5	Ovis aries	POMC	Met-enkephalin
+NP04847	YGGFM	5	Pelophylax ridibundus	POMC	Met-enkephalin (By similarity)
+NP04859	YGGFM	5	Sus scrofa	POMC	Met-enkephalin
+NP04867	YGGFM	5	Thunnus obesus	POMC	Met-enkephalin
+NP04969	FSPRL	5	Homarus americanus	Pyrokinin	Pyrokinin
+NP05270	VYIHPF	6	NA	Serpin	Angiotensin IV
+NP05282	DRVYI	5	Callithrix jacchus	Serpin	Angiotensin 1-5
+NP05285	VYIHPF	6	Callithrix jacchus	Serpin	Angiotensin-4
+NP05295	DRVYI	5	Gorilla gorilla gorilla	Serpin	Angiotensin 1-5
+NP05298	VYIHPF	6	Gorilla gorilla gorilla	Serpin	Angiotensin-4
+NP05312	DRVYI	5	Ovis aries	Serpin	Angiotensin 1-5
+NP05315	VYIHPF	6	Ovis aries	Serpin	Angiotensin-4
+NP05327	DRVYI	5	Homo sapiens	Serpin	Angiotensin 1-5
+NP05333	VYIHPF	6	Homo sapiens	Serpin	Angiotensin-4
+NP05336	DRVYI	5	Mus musculus	Serpin	Angiotensin 1-5
+NP05342	VYIHPF	6	Mus musculus	Serpin	Angiotensin-4
+NP05345	DRVYI	5	Pan troglodytes	Serpin	Angiotensin 1-5
+NP05351	VYIHPF	6	Pan troglodytes	Serpin	Angiotensin-4
+NP05354	DRVYI	5	Rattus norvegicus	Serpin	Angiotensin 1-5
+NP05360	VYIHPF	6	Rattus norvegicus	Serpin	Angiotensin-4
+NP05552	APSGFQ	6	Cancer borealis	Tachykinin	Tachykinin-related peptide
+NP05553	GFLGMR	6	Cancer borealis	Tachykinin	Tachykinin-related peptide
+NP05579	AFHAMR	6	Ixodes scapularis	Tachykinin	TKRP-1
+NP05616	EILDEI	6	Apis mellifera	Tachykinin	Brain peptide EILDEI
+NP05765	FVGMR	5	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 8(8-12)
+NP05820	ENCCPR	6	Oryctolagus cuniculus	Vasopressin/oxytocin	AVP metabolite neuropeptide
+NP05929	GMYGGW	6	Caenorhabditis elegans	YGGW-amide related peptide	GMYGGW-amide (Potential)
+NP05930	GMYGGY	6	Caenorhabditis elegans	YGGW-amide related peptide	GMYGGY-amide (Potential)
+NP05934	GYGGY	5	Caenorhabditis elegans	YGGW-amide related peptide	GYGGY-amide (Potential)
+NP05936	GFYGG	5	Caenorhabditis elegans	YGGW-amide related peptide	GFYGG-amide (Potential)
+NP05939	GGGWG	5	Caenorhabditis elegans	YGGW-amide related peptide	GGGWG-amide (Potential)
+NP05942	YGGWG	5	Caenorhabditis elegans	YGGW-amide related peptide	YGGWG-amide (Potential)

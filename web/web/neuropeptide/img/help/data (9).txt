@@ -1,0 +1,3 @@
+ID	Sequence	Length	Organism	Family	Name
+NP00585	QVRFRQCYFNPISCF	Manduca sexta	Allatostatin	Allatostatin	1#Gln# Pyrrolidone carboxylic acid
+NP00589	QVRFRQCYFNPISCF	Spodoptera frugiperda	Allatostatin	Allatostatin (By similarity)	1#Gln# Pyrrolidone carboxylic acid (By similarity)

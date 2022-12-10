@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NeuropeptideQuery>    
+
+    <queryType>org.pdb.neuropeptide.simple.OrganismQuery</queryType>
+
+    <description>Simple query for a list of organism: NP00225</description>   
+
+    <organism>NP00225</organism>
+
+</NeuropeptideQuery>

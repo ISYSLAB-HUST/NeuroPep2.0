@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NeuropeptideQuery>    
+
+    <queryType>org.pdb.neuropeptide.simple.SequenceQuery</queryType>
+
+    <description>Simple query for sequence: SVPHFSDEDKDPE</description>   
+
+    <sequence>SVPHFSDEDKDPE</sequence>
+
+</NeuropeptideQuery>

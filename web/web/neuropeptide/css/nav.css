@@ -1,0 +1,247 @@
+@font-face {
+    font-family: 'Milonga-Regular';
+    src: url('../font/Milonga-Regular.ttf') format('truetype');
+    src: url('../font/milonga-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/milonga-regular-webfont.woff') format('woff'),
+    url('../font/milonga-regular-webfont.svg#Milonga-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* body{font-family:Milonga-Regular;} */
+body {
+    font: 16px/1.5 times new roman, Arial, Verdana, Tahoma, "宋体";
+}
+
+/*datatable表格样式控制*/
+table.dataTable {
+    font-size: 14px;
+}
+
+div.seq:hover {
+    text-overflow: inherit;
+    overflow: visible;
+    white-space: inherit;
+}
+
+div .seq {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 200px;
+    white-space: nowrap;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu_nav {
+    margin: 2px 2px 0px 2px;
+    width: 976px;
+    font-family: Milonga-Regular;
+    /*top:198px;*/
+    background: url(../img/new_blank.gif) repeat-x;
+}
+
+.menu_nav ul {
+    position: relative;
+    list-style-type: none;
+    /*padding-left:15px;*/
+    background: OFFFFFF;
+    height: 48px;
+    font-family: arial, verdana, sans-serif;
+}
+
+
+.menu_nav ul li.top_li {
+
+    display: block;
+    float: left;
+}
+
+.menu_nav ul li a.top_link {
+    display: block;
+    float: left;
+    height: 48px;
+    line-height: 36px;
+    font-weight: bold;
+    padding-left: 15px;
+    background: url(../img/new_blank.gif);
+    text-decoration: none;
+    color: #CCCCCC;
+}
+
+.menu_nav ul li a.sec_link {
+    font-weight: bold;
+}
+
+
+.menu_nav ul li a.top_link span {
+    display: block;
+    float: left;
+    padding: 0 20px 0 5px;
+    height: 48px;
+    background: url(../img/new_blank.gif) right top;
+}
+
+.menu_nav ul li a.top_link span.down {
+    display: block;
+    float: left;
+    padding: 0 30px 0 15px;
+    height: 48px;
+    background: url(../img/new_blanka.gif) right top;
+}
+
+.menu_nav ul li a.top_link:hover {
+    color: #fff;
+    background: url(../img/blank_over.gif) no-repeat;
+}
+
+.menu_nav ul li a.top_link:hover span {
+    color: #fff;
+    background: url(../img/blank_over.gif) no-repeat right top;
+}
+
+.menu_nav ul li a.top_link:hover span.down {
+    color: #fff;
+    background: url(../img/blank_overa.gif) no-repeat right top;
+}
+
+.menu_nav ul li:hover {
+    position: relative;
+    z-index: 200;
+}
+
+.menu_nav ul li ul {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu_nav ul li:hover ul {
+
+    left: 0;
+    top: 40px;
+    background: #fff;
+    padding: 3px;
+    border: 1px solid #3a93d2;
+    white-space: nowrap;
+    width: auto;
+    height: auto;
+    z-index: 300;
+}
+
+.menu_nav ul li:hover ul li {
+    display: block;
+    height: 30px;
+    position: relative;
+    float: left;
+    width: auto;
+    font-weight: normal;
+}
+
+.menu_nav ul li:hover ul li a {
+    display: block;
+    font-size: 14px;
+    height: 30px;
+    width: 130px;
+    line-height: 30px;
+    text-indent: 5px;
+    color: #000;
+    text-decoration: none;
+    background: #fff;
+}
+
+.menu_nav ul li:hover ul li a:hover {
+    background: #3a93d2;
+    color: #fff;
+}
+
+/*
+.menu_nav ul li.current a
+{
+width:100px;
+height:37px;
+line-height:37px;
+background:url(../img/nav_li_current.jpg) no-repeat;
+display:block;
+color:#fff;
+}
+*/
+/*
+.menu_nav ul li a:hover
+{
+background:url(../img/blank_over.gif) no-repeat;
+color:#fff;
+text-decoration:none;
+}
+
+.menu_nav ul li ul{
+	background:url(../img/nav_bg.gif) repeat;
+	list-style-type: none;
+	width:113px;
+	position:static;
+	padding:0px;
+	display:none;
+}
+.menu_nav ul li:hover ul{
+	display:block;
+}
+
+.menu_nav ul ul li {
+	position: relative;
+	float: none;
+	display: block;
+	height: 48px;
+	width: 100%;
+	padding:0px;
+	background:none;
+	border: none;
+}
+.menu_nav_right
+{
+padding-right:20px;
+background:url(../img/nav_r_bg.gif) no-repeat right top;
+float:right;
+padding-top:13px;
+height:23px;
+padding-bottom:12px;
+}
+
+/* .nav_hr{
+	width:960px;
+	border:none;
+	border-top:2px solid #F60;
+	height:0;
+	font-size:0;
+	margin:0;
+}  */
+
+.nav_hr {
+    background: #F60; /*改变现代浏览器下线条色*/
+    color: #F60; /*改变ＩＥ浏览器下线条色，最好和Background-color设置一样的色*/
+    clear: both; /*可以用来清除浮动*/
+    float: left; /*取消浮动，可以不设置(IE兼容性)*/
+    width: 960px; /*显式定义宽度*/
+    height: 2px; /*改变部分浏览器下的默认高度*/
+    line-height: 2px; /*保证ＩＥ下高度效果一致，不留白色空白区*/
+    font-size: 0; /*设置为0，以确保IE6下不留空白区*/
+    border: none; /*取消默认边框，以背景和高度代替边框效果*/
+    margin: 0;
+}
+
+#pagetitle {
+    margin: 2px auto auto 10px;
+}
+
+#footer {
+    color: #aaa;
+    text-align: center;
+    margin-bottom: 25px;
+}

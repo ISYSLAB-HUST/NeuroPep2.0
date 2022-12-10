@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+    <bean id="searchNeuropeptideService" class="com.neuropeptide.service.impl.NPSearchServiceImpl">
+        <property name="searchDAO">
+            <ref bean="INPSearchDAO"/>
+        </property>
+    </bean>
+
+    <bean id="deleteService" class="com.neuropeptide.service.impl.DeleteServiceImpl">
+        <property name="deleteDAO">
+            <ref bean="IDeleteDAO"/>
+        </property>
+    </bean>
+
+    <bean id="saveService" class="com.neuropeptide.service.impl.SaveServiceImpl">
+        <property name="saveDAO">
+            <ref bean="ISaveDAO"/>
+        </property>
+    </bean>
+
+    <bean id="loginService" class="com.neuropeptide.service.impl.UserInfoSerivceImpl">
+        <property name="userInfoDAO">
+            <ref bean="IUserInfoDAO"/>
+        </property>
+    </bean>
+
+
+    <bean id="searchNeuropeptide" parent="neuropeptidedbTransProxy">
+        <property name="target" ref="searchNeuropeptideService"/>
+    </bean>
+
+    <bean id="delete" parent="neuropeptidedbTransProxy">
+        <property name="target" ref="deleteService"/>
+    </bean>
+
+    <bean id="save" parent="neuropeptidedbTransProxy">
+        <property name="target" ref="saveService"/>
+    </bean>
+
+    <bean id="login" parent="neuropeptidedbTransProxy">
+        <property name="target" ref="loginService"/>
+    </bean>
+
+</beans>

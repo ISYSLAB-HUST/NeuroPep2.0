@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN"
+        "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+    <constant name="struts.action.excludePattern" value="/CXFService/*,/CXFService/.*"/>
+
+    <package name="struts2" extends="struts-default" namespace="/">
+
+        <action name="search" class="com.neuropeptide.web.action.SearchAction" method="display">
+            <result name="success">/search.jsp</result>
+        </action>
+
+        <!--add-->
+        <!--<action name="basic_search" class="com.neuropeptide.web.action.SearchAction">
+            <result name="success">/basic_search.jsp</result>
+        </action>-->
+
+        <action name="search_*" class="com.neuropeptide.web.action.SearchAction"
+                method="{1}">
+            <result name="info">/neuropeptide.jsp</result>
+            <result name="subDetail">/subDetails.jsp</result>
+            <result name="submission">/submission.jsp</result>
+            <result name="404">/404.jsp</result>
+        </action>
+        <action name="searchReceptor_*" class="com.neuropeptide.web.action.SearchReceptorAction"
+                method="{1}">
+            <result name="info">/newreceptor.jsp</result>
+            <result name="subDetail">/subDetails.jsp</result>
+            <result name="submission">/submission.jsp</result>
+            <result name="404">/404.jsp</result>
+        </action>
+        <action name="analyze" class="com.neuropeptide.web.action.SearchAction" method="analyze">
+            <result name="success">/analyze.jsp</result>
+        </action>
+
+        <action name="delete_*" class="com.neuropeptide.web.action.DeleteAction"
+                method="{1}">
+            <result name="allSubmission" type="chain">submission</result>
+        </action>
+
+        <action name="save_*" class="com.neuropeptide.web.action.SaveAction"
+                method="{1}">
+            <result name="allSubmission" type="redirectAction">
+                <param name="actionName">submission</param>
+            </result>
+        </action>
+
+        <action name="dataView" class="com.neuropeptide.web.action.DataViewAction">
+        </action>
+
+        <action name="download_*" class="com.neuropeptide.web.action.DownloadAction" method="{1}">
+            <result name="success" type="stream">
+                <param name="contentType">text/plain</param>
+                <param name="contentDisposition">attachment;filename="struts2.txt"</param>
+                <param name="inputName">searchResultDownload</param>
+            </result>
+        </action>
+
+        <action name="checkEmail" class="com.neuropeptide.web.action.CheckEmailAction">
+            <result name="submission">/submission.jsp</result>
+        </action>
+
+        <action name="blast" class="com.neuropeptide.web.action.BlastAction">
+            <result name="result">/blast_result.jsp</result>
+        </action>
+
+        <action name="tools_*" class="com.neuropeptide.web.action.ToolsAction" method="{1}">
+            <result name="result">/blast_result.jsp</result>
+            <result name="clustalw">/clustalw_result.jsp</result>
+            <result name="clustalw-error">/clustalw.jsp</result>
+        </action>
+
+        <action name="submission" class="com.neuropeptide.web.action.LoginAction">
+            <result name="displaySub">/allSubmission.jsp</result>
+            <result name="logout">/submission.jsp</result>
+        </action>
+
+        <action name="logout" class="com.neuropeptide.web.action.LogoutAction">
+            <result name="logout">/submission.jsp</result>
+        </action>
+
+        <action name="browse" class="com.neuropeptide.web.action.BrowseAction">
+            <result name="success">/browse.jsp</result>
+        </action>
+        <action name="phylaData" class="com.neuropeptide.web.action.BrowseAction" method="getPhylaData">
+            <result name="success">/browse.jsp</result>
+        </action>
+        <action name="browse_*" class="com.neuropeptide.web.action.BrowseAction" method="{1}">
+            <result name="success">/browseDetail.jsp</result>
+        </action>
+
+        <action name="browseReceptor" class="com.neuropeptide.web.action.BrowseRecptorAction">
+            <result name="success">/browse.jsp</result>
+        </action>
+        <action name="browseReceptor_*" class="com.neuropeptide.web.action.BrowseRecptorAction" method="{1}">
+            <result name="success">/browseDetail.jsp</result>
+        </action>
+
+        <action name="ssearch" class="com.neuropeptide.web.action.SSearchAction">
+            <result name="display">/ssearch_search.jsp</result>
+            <result name="result">/ssearch_result.jsp</result>
+        </action>
+    </package>
+</struts>    

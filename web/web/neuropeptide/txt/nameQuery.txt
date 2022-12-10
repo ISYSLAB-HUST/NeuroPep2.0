@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NeuropeptideQuery>    
+
+    <queryType>org.pdb.neuropeptide.simple.NameQuery</queryType>
+
+    <description>Simple query for name: C-terminal peptide (By similarity)</description>   
+
+    <name>C-terminal peptide (By similarity)</name>
+
+</NeuropeptideQuery>

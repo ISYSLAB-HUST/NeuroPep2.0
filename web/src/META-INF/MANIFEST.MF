@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Class-Path: dwr.jar jotm.jar jstl.jar mail.jar xapool.jar jta-1.1.jar js
+ -1.7R2.jar ognl-3.0.jar standard.jar cxf-2.7.6.jar oro-2.0.8.jar activa
+ tion.jar hibernate3.jar antlr-2.7.6.jar dom4j-1.6.1.jar persistence.jar
+  commons-dbcp.jar cxf-manifest.jar log4j-1.2.14.jar neethi-3.0.2.jar ss
+ lext-1.2-0.jar wsdl4j-1.6.3.jar ehcache-1.2.3.jar ezmorph-1.0.6.jar htt
+ pcore-4.2.4.jar jaxb-api-2.2.6.jar jaxb-xjc-2.2.6.jar jettison-1.3.4.ja
+ r stax-api-1.0.1.jar xmlbeans-2.3.0.jar aopalliance-1.0.jar classworlds
+ -1.1.jar jaxb-impl-2.2.6.jar slf4j-api-1.5.8.jar stax2-api-3.1.1.jar co
+ mmons-io-1.3.2.jar commons-lang-2.3.jar commons-pool-1.6.jar ejb3-persi
+ stence.jar httpclient-4.2.5.jar poi-3.9-20121203.jar xml-resolver-1.2.j
+ ar xwork-core-2.2.1.jar commons-chain-1.2.jar commons-codec-1.7.jar fre
+ emarker-2.3.16.jar FastInfoset-1.2.12.jar httpcore-nio-4.2.4.jar jackso
+ n-all-1.9.11.jar javassist-3.9.0.GA.jar json-lib-2.1-jdk15.jar struts2-
+ core-2.2.1.jar hibernate-validator.jar slf4j-log4j12-1.5.8.jar commons-
+ digester-2.0.jar xmlschema-core-2.0.3.jar commons-logging-1.0.4.jar hib
+ ernate-annotations.jar poi-ooxml-3.9-20121203.jar commons-beanutils-1.7
+ .0.jar commons-collections-3.1.jar commons-logging-api-1.1.jar commons-
+ validator-1.3.1.jar hibernate-entitymanager.jar javax.ws.rs-api-2.0-m10
+ .jar spring-tx-3.0.7.RELEASE.jar woodstox-core-asl-4.2.0.jar commons-fi
+ leupload-1.2.1.jar jetty-io-8.1.7.v20120910.jar httpasyncclient-4.0-bet
+ a3.jar struts2-json-plugin-2.2.1.jar jetty-http-8.1.7.v20120910.jar jet
+ ty-util-8.1.7.v20120910.jar geronimo-jaxws_2.2_spec-1.1.jar struts2-spr
+ ing-plugin-2.2.1.jar jetty-server-8.1.7.v20120910.jar geronimo-servlet_
+ 3.0_spec-1.0.jar hibernate-commons-annotations.jar poi-ooxml-schemas-3.
+ 9-20121203.jar mysql-connector-java-5.1.25-bin.jar spring-expression-3.
+ 0.7.RELEASE.jar struts2-convention-plugin-2.2.1.jar struts2-embeddedjsp
+ -plugin-2.2.1.jar jetty-continuation-8.1.7.v20120910.jar com.springsour
+ ce.net.sf.cglib-2.2.0.jar spring-context-support-3.0.6.RELEASE.jar org.
+ springframework.aop-3.0.5.RELEASE.jar org.springframework.asm-3.0.5.REL
+ EASE.jar org.springframework.orm-3.0.5.RELEASE.jar org.springframework.
+ oxm-3.0.5.RELEASE.jar org.springframework.web-3.0.5.RELEASE.jar com.spr
+ ingsource.org.aopalliance-1.0.0.jar org.springframework.core-3.0.5.RELE
+ ASE.jar org.springframework.jdbc-3.0.5.RELEASE.jar org.springframework.
+ beans-3.0.5.RELEASE.jar com.springsource.org.apache.log4j-1.2.15.jar or
+ g.springframework.aspects-3.0.5.RELEASE.jar org.springframework.context
+ -3.0.5.RELEASE.jar com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar org
+ .springframework.expression-3.0.5.RELEASE.jar org.springframework.instr
+ ument-3.0.5.RELEASE.jar org.springframework.web.struts-3.0.5.RELEASE.ja
+ r org.springframework.transaction-3.0.5.RELEASE.jar org.springframework
+ .web.portlet-3.0.5.RELEASE.jar org.springframework.web.servlet-3.0.5.RE
+ LEASE.jar com.springsource.org.apache.commons.lang-2.4.0.jar com.spring
+ source.org.apache.commons.pool-1.5.3.jar com.springsource.org.apache.co
+ mmons.logging-1.1.1.jar com.springsource.org.aspectj.weaver-1.6.8.RELEA
+ SE.jar org.springframework.instrument.tomcat-3.0.5.RELEASE.jar com.spri
+ ngsource.org.apache.commons.fileupload-1.2.0.jar com.springsource.org.a
+ pache.commons.httpclient-3.1.0.jar
+

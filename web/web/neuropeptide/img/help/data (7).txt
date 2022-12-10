@@ -1,0 +1,227 @@
+ID	Sequence	Length	Organism	Family	Name
+NP03794	YPPKPENPGDDAAPEELAKYYSALRHYINLITRQRY	36	Anguilla rostrata	NPY	Pancreatic polypeptide
+NP03795	YPPKPENPGEDAPPEELAKYYSALRHYINLITRQRY	36	Atractosteus spatula	NPY	Pancreatic polypeptide
+NP03796	APLEPVYPGDNATPEQMAQYAAEMRRYINMLTRPRY	36	Chinchilla	NPY	Pancreatic polypeptide
+NP03797	VPLEPVYPGDNATPEQMAHYAAELRRYINMLTRPRY	36	Erinaceus concolor	NPY	Pancreatic polypeptide
+NP03798	GPVQPTYPGDDAPVEDLVNDLQQYLNVVTRHRY	33	Larus argentatus	NPY	Pancreatic polypeptide
+NP03799	YPPKPENPGEDAPPEELARYYTALRHYINLITRQRY	36	Oncorhynchus mykiss	NPY	Neuropeptide Y
+NP03800	YPSKPDNPGEGAPAEDLAKYYSALRHYINLITRQRY	36	Scyliorhinus canicula	NPY	Pancreatic polypeptide
+NP03801	APLEPAYPGDNATPEQMAQYAAELRKYINMVTRPRY	36	Suncus murinus	NPY	Pancreatic polypeptide
+NP03802	KAVRSPSLRLRF	12	Aedes aegypti	NPY	sNPF-1
+NP03803	SPSLRLRF	8	Aedes aegypti	NPY	sNPF-1 4-11
+NP03804	APQLRLRF	8	Aedes aegypti	NPY	sNPF-2
+NP03805	SDPHLSILSKPMSAIPSYKFDD	22	Apis mellifera	NPY	Short neuropeptide F
+NP03806	SPSLRLRF	8	Apis mellifera	NPY	Short neuropeptide F
+NP03807	PSMRLRF	7	Callinectes sapidus	NPY	Short neuropeptide F
+NP03808	PSLRLRF	7	Carcinus maenas	NPY	Short neuropeptide F
+NP03809	PSMRLRF	7	Carcinus maenas	NPY	Short neuropeptide F
+NP03810	SSPETLISDLLLR	13	Coturnix coturnix japonica	NPY	Neuropeptide Y
+NP03811	DGGDVMSGGEGGEMTAMADAIKYLQGLDKVYGQAARPRF	39	Daphnia pulex	NPY	Neuropeptide F
+NP03812	SDRSPSLRLRF	11	Daphnia pulex	NPY	short neuropeptide F
+NP03813	SPSLRLRF	8	Delia radicum	NPY	RLRFamide1?4
+NP03814	KPQRLRW	7	Drosophila melanogaster	NPY	sNPF-3
+NP03815	KPMRLRW	7	Drosophila melanogaster	NPY	sNPF-4
+NP03816	PSLRLRF	7	Homarus americanus	NPY	Short neuropeptide F
+NP03817	GGRSPSLRLRF	11	Ixodes scapularis	NPY	Short neuropeptide F
+NP03818	SPSLRLRF	8	Ixodes scapularis	NPY	sNPF-1 4-11
+NP03819	GGRSPSLRLRF	11	Leptinotarsa decemlineata	NPY	Limulus "NPF"
+NP03820	DGRTPALRLRF	11	Litopenaeus vannamei	NPY	Short neuropeptide F
+NP03821	PSLRLRF	7	Litopenaeus vannamei	NPY	Short neuropeptide F
+NP03822	PSMRLRF	7	Litopenaeus vannamei	NPY	Short neuropeptide F
+NP03823	SMPSLRLRF	9	Litopenaeus vannamei	NPY	Short neuropeptide F
+NP03824	AQRSPSLRLRF	11	Lucilia cuprina	NPY	Short neuropeptide F-1
+NP03825	SPSLRLRF	8	Lucilia cuprina	NPY	sNPF-1 4-11
+NP03826	KPQRLRF	7	Lucilia cuprina	NPY	sNPF-3
+NP03827	EPEPMARPTRPKVFESPEELRQYLDLVKEYYSLSGKARY	39	Nasonia vitripennis	NPY	Neuropeptide F
+NP03828	AAERSPSLRLRF	12	Nasonia vitripennis	NPY	Short neuropeptides F
+NP03829	FAPRSPQLRLRF	12	Nezara viridula	NPY	Short neuropeptide F
+NP03830	SPQLRLRF	8	Nezara viridula	NPY	sNPF5?12
+NP03831	DVRAPALRLRF	11	Ocypode ceratophthalma	NPY	Short neuropeptide F
+NP03832	PSLRLRF	7	Ocypode ceratophthalma	NPY	Short neuropeptide F
+NP03833	PSMRLRF	7	Ocypode ceratophthalma	NPY	Short neuropeptide F
+NP03834	SMPSLRLRF	9	Ocypode ceratophthalma	NPY	Short neuropeptide F
+NP03835	QRPPSLKTRF	10	Aedes aegypti	NPY	Decapeptide 1
+NP03836	AVRSPSLRLRF	11	Aedes aegypti	NPY	RLRF peptide 1 (By similarity)
+NP03837	SIRAPQLRLRF	11	Aedes aegypti	NPY	RLRF peptide 2 (By similarity)
+NP03838	AIRAPQLRLRF	11	Aedes aegypti	NPY	RLRF peptide 3 (By similarity)
+NP03839	APSQRLRW	8	Aedes aegypti	NPY	RLRW peptide (By similarity)
+NP03840	TDPLWSSFNENALLEE	16	Aedes aegypti	NPY	sNPF peptide 2 (By similarity)
+NP03841	SGGGMFSTNDVMQQ	14	Aedes aegypti	NPY	sNPF peptide 3 (By similarity)
+NP03842	SDPSVPVEPEDDDMVDQ	17	Aedes aegypti	NPY	sNPF-associated peptide (By similarity)
+NP03843	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Alligator mississippiensis	NPY	Neuropeptide Y
+NP03844	YPPKPENPGEDASPEEQAKYYTALRHYINLITRQRY	36	Anguilla japonica	NPY	Peptide YY
+NP03845	AVRSPSLRLRF	11	Anopheles gambiae	NPY	RLRF peptide 1 (By similarity)
+NP03846	AIRAPQLRLRF	11	Anopheles gambiae	NPY	RLRF peptide 2 (By similarity)
+NP03847	TIRAPQLRLRF	11	Anopheles gambiae	NPY	RLRF peptide 3 (Probable)
+NP03848	APSQRLRW	8	Anopheles gambiae	NPY	RLRW peptide 1 (Probable)
+NP03849	APTQRLRW	8	Anopheles gambiae	NPY	RLRW peptide 2 (Probable)
+NP03850	NDPLWTSFNENALLEENFE	19	Anopheles gambiae	NPY	sNPF peptide 2 (Probable)
+NP03851	SNLFGNLVNQFQQDDVMQQ	19	Anopheles gambiae	NPY	sNPF peptide 3 (Probable)
+NP03852	TDPSWAMYNEHQLTTGQQAQPANEASE	27	Anopheles gambiae	NPY	sNPF peptide 4 (Probable)
+NP03853	SDPSVPLRPEEDELIDQ	17	Anopheles gambiae	NPY	sNPF-associated peptide (By similarity)
+NP03854	GKRGDSFRKREFFRTNGERYPEDAAAWTEFQ	31	Aplysia californica	NPY	C-flanking peptide of NPY
+NP03855	DNSEMLAPPPRPEEFTSAQQLRQYLAALNEYYSIMGRPRF	40	Aplysia californica	NPY	Neuropeptide Y
+NP03856	KVVHLRPRSSFSSEDEYQIYLRNVSKYIQLYGRPRF	36	Arthurdendyus triangulatus	NPY	Neuropeptide F
+NP03857	SSPETLISDLLMRESTGNIPRTRLEDPSMW	30	Bos taurus	NPY	C-flanking peptide of NPY
+NP03858	YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY	36	Bos taurus	NPY	Neuropeptide Y
+NP03859	SSADTLISDLLIGETESHPQTRYEDQLVW	29	Carassius auratus	NPY	C-flanking peptide of NPY
+NP03860	YPTKPDNPGEGAPAEELAKYYSALRHYINLITRQRY	36	Carassius auratus	NPY	Neuropeptide Y
+NP03861	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Cavia porcellus	NPY	Neuropeptide Y
+NP03862	SSADTLISDLLIGETESHPQTRYEDHLVW	29	Cyprinus carpio	NPY	C-flanking peptide of NPY
+NP03863	YPTKPDNPGEDAPAEELAKYYSALRHYINLITRQRY	36	Cyprinus carpio	NPY	Neuropeptide Y
+NP03864	SSADTLISDLLIGETESRPQTRYEDHLAW	29	Danio rerio	NPY	C-flanking peptide of NPY
+NP03865	YPTKPDNPGEDAPAEELAKYYSALRHYINLITRQRY	36	Danio rerio	NPY	Neuropeptide Y
+NP03866	YPPKPENPGDDAAPEELAKYYTALRHYINLITRQRY	36	Danio rerio	NPY	Peptide YY-A
+NP03867	AQRSPSLRLRF	11	Delia radicum	NPY	Short neuropeptide F-1
+NP03868	SSPEILDTLVSELLLKESTDQLPQSRYDPSLW	32	Dicentrarchus labrax	NPY	C-flanking peptide of NPY
+NP03869	YPVKPENPGEDAPAEELAKYYSALRHYINLITRQRY	36	Dicentrarchus labrax	NPY	Neuropeptide Y
+NP03870	YPPKPESPGSNASPEDWAKYHAAVRHYVNLITRQRY	36	Dicentrarchus labrax	NPY	Peptide Y
+NP03871	YPAKPASPRDGAPPEELAKYYSALRHYINLITRQRY	36	Dicentrarchus labrax	NPY	Peptide YY-like
+NP03872	NDVNTMADAYKFLQDLDTYYGDRARVRF	28	Drosophila melanogaster	NPY	Neuropeptide F
+NP03873	AQRSPSLRLRF	11	Drosophila melanogaster	NPY	RLRF peptide 1
+NP03874	SPSLRLRF	8	Drosophila melanogaster	NPY	RLRF peptide 2
+NP03875	WFGDVNQKPI	10	Drosophila melanogaster	NPY	sNPF peptide 2
+NP03876	SDPDMLNSIVE	11	Drosophila melanogaster	NPY	sNPF-associated peptide
+NP03877	NDVNTMADAYKFLQDLDTYYGDRARVRF	28	Drosophila pseudoobscura pseudoobscura	NPY	Neuropeptide F
+NP03878	AQRSPSLRLRF	11	Drosophila pseudoobscura pseudoobscura	NPY	RLRF peptide 1 (By similarity)
+NP03879	SPSLRLRF	8	Drosophila pseudoobscura pseudoobscura	NPY	RLRF peptide 2 (By similarity)
+NP03880	WFGDVNQKPI	10	Drosophila pseudoobscura pseudoobscura	NPY	sNPF peptide 2 (By similarity)
+NP03881	SDPDMLNNIVE	11	Drosophila pseudoobscura pseudoobscura	NPY	sNPF-associated peptide (By similarity)
+NP03882	YPIKPENPGEDAPADELAKYYSALRHYINLITRQRY	36	Gadus morhua	NPY	Neuropeptide Y
+NP03883	SSPETLISDLLLRESTENIPRSRFEDPSMW	30	Gallus gallus	NPY	C-flanking peptide of NPY
+NP03884	YPSKPDSPGEDAPAEDMARYYSALRHYINLITRQRY	36	Gallus gallus	NPY	Neuropeptide Y
+NP03885	STQMLSPPERPREFRHPNELRQYLKELNEYYAIMGRTRF	39	Helix aspersa	NPY	Neuropeptide F
+NP03886	SSPETLISDLLMRESTENVPRTRLEDPAMW	30	Homo sapiens	NPY	C-flanking peptide of NPY
+NP03887	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Homo sapiens	NPY	Neuropeptide Y
+NP03888	SNTDVLTPDLLFGEAEIRLQSRYDDPLMG	29	Ictalurus punctatus	NPY	C-flanking peptide of NPY
+NP03889	YPTKPENPGEDAPVEELAKYYSALRHYINLITRQRY	36	Ictalurus punctatus	NPY	Neuropeptide Y
+NP03890	FPNKPDSPGEDAPAEDLARYLSAVRHYINLITRQRY	36	Lampetra fluviatilis	NPY	Neuropeptide Y
+NP03891	FPPKPDNPGDNASPEQMARYKAAVRHYINLITRQRY	36	Lampetra fluviatilis	NPY	Peptide YY-like
+NP03892	ARGPQLRLRF	10	Leptinotarsa decemlineata	NPY	Neuropeptide NPF-1
+NP03893	APSLRLRF	8	Leptinotarsa decemlineata	NPY	Neuropeptide NPF-2
+NP03894	YSQVARPRF	9	Locusta migratoria	NPY	Neuropeptide F
+NP03895	SNRSPSLRLRF	11	Locusta migratoria	NPY	Short neuropeptide F
+NP03896	SPSLRLRF	8	Locusta migratoria	NPY	Short neuropeptide F4-11
+NP03897	YAIVARPRF	9	Loligo vulgaris	NPY	Peptide tyrosine phenylalanine
+NP03898	SSPETLISDLLMRESTENVPRTRLEDPSMW	30	Macaca mulatta	NPY	C-flanking peptide of NPY
+NP03899	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Macaca mulatta	NPY	Neuropeptide Y
+NP03900	PDKDFIVNPSDLVLDNKAALRDYLRQINEYFAIIGRPRF	39	Moniezia expansa	NPY	Neuropeptide F
+NP03901	SSPETLISDLLMKESTENAPRTRLEDPSMW	30	Mus musculus	NPY	C-flanking peptide of NPY
+NP03902	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Mus musculus	NPY	Neuropeptide Y
+NP03903	YPVKPENPGEDAPTEELAKYYTALRHYINLITRQRY	36	Oncorhynchus mykiss	NPY	Neuropeptide Y
+NP03904	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Oryctolagus cuniculus	NPY	Neuropeptide Y
+NP03905	SSPETLISDLLMRESTGNIPRTRLEDPSMW	30	Ovis aries	NPY	C-flanking peptide of NPY
+NP03906	YPSKPDNPGDDAPAEDLARYYSALRHYINLITRQRY	36	Ovis aries	NPY	Neuropeptide Y
+NP03907	SSPEILDTLVSELLLKESTDTLPQSRYDPSLW	32	Paralichthys olivaceus	NPY	C-flanking peptide of NPY
+NP03908	YPVKPENPGDDAPAEELAKYYSALRHYINLITRQRY	36	Paralichthys olivaceus	NPY	Neuropeptide Y
+NP03909	YPSKPDNPGEDAPAEDMAKYYSALRHYINLITRQRY	36	Pelophylax ridibundus	NPY	Melanostatin
+NP03910	RARPRF	6	Penaeus monodon	NPY	Peptide tyrosine phenylalanine 1
+NP03911	YSQVSRPRF	9	Penaeus monodon	NPY	Peptide tyrosine phenylalanine 2
+NP03912	YAIAGRPRF	9	Penaeus monodon	NPY	Peptide tyrosine phenylalanine 3
+NP03913	YSLRARPRF	9	Penaeus monodon	NPY	Peptide tyrosine phenylalanine 4
+NP03914	YPSKPDNPGEDAPAEDMAKYYSALRHYINLITRQRY	36	Rana temporaria	NPY	Melanostatin
+NP03915	SSPETLISDLLMRESTENAPRTRLEDPSMW	30	Rattus norvegicus	NPY	C-flanking peptide of NPY
+NP03916	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	Rattus norvegicus	NPY	Neuropeptide Y
+NP03917	NNRSPQLRLRF	11	Rhodnius prolixus	NPY	Short neuropeptide F
+NP03918	YSQVARPRF	9	Schistocerca gregaria	NPY	Neuropeptide F
+NP03919	SNRSPSLRLRF	11	Schistocerca gregaria	NPY	Short neuropeptide F
+NP03920	SPSLRLRF	8	Schistocerca gregaria	NPY	Short neuropeptide F4-11
+NP03921	YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY	36	Sus scrofa	NPY	Neuropeptide Y
+NP03922	SSPEALMMTDLMLRENAESFPKYRYDEPFMW	31	Torpedo marmorata	NPY	C-flanking peptide of NPY
+NP03923	YPSKPDNPGEGAPAEDLAKYYSALRHYINLITRQRY	36	Torpedo marmorata	NPY	Neuropeptide Y
+NP03924	SNPETMVSDVWWRESTENIPRSRFEDPSMW	30	Typhlonectes natans	NPY	C-flanking peptide of NPY
+NP03925	YPSKPDNPGEDAPAEDMAKYYSALRHYINLITRQRY	36	Typhlonectes natans	NPY	Neuropeptide Y
+NP03926	SSPETMLSDVWWRENTENIPRSRFEDPPMW	30	Xenopus laevis	NPY	C-flanking peptide of NPY
+NP03927	YPSKPDNPGEDAPAEDMAKYYSALRHYINLITRQRY	36	Xenopus laevis	NPY	Neuropeptide Y
+NP03928	GPSQPTYPGDDAPVEDLIRFYNDLQQYLNVVTRHRY	36	Gallus gallus	NPY	Pancreatic polypeptide
+NP03929	YPPQPESPGGNASPEDWAKYHAAVRHYVNLITRQRY	36	Myoxocephalus scorpius	NPY	Pancreatic polypeptide
+NP03930	APPEPVYPGDDATPEQMAEYVADLRRYINMLTRPRY	36	Oryctolagus cuniculus	NPY	Pancreatic polypeptide
+NP03931	YPPKPENPGEDASPEEMTKYLTALRHYINLVTRQRY	36	Pelophylax ridibundus	NPY	Pancreatic polypeptide
+NP03932	YPPKPESPGEDASPEEMNKYLTALRHYINLVTRQRY	36	Phyllomedusa bicolor	NPY	skin peptide tyrosine-tyrosine?
+NP03933	APSEPHHPGDQATQDQLAQYYSDLYQYITFVTRPRF	36	Rana temporaria	NPY	Pancreatic polypeptide
+NP03934	YPPKPENPGEDAPPEELAKYYSALRHYINLITRQRY	36	Scyliorhinus canicula	NPY	Pancreatic polypeptide
+NP03935	APLEPVYPGDDATPEQMAQYAAELRRYINMLTRPRY	36	Canis familiaris	NPY	Pancreatic hormone
+NP03936	DRGEMRDILEWGSPHAAAPR	20	Canis familiaris	NPY	Pancreatic icosapeptide
+NP03937	APLEPVYPGDDATPQQMAQYAAEMRRYINMLTRPRY	36	Cavia porcellus	NPY	Pancreatic hormone
+NP03938	SAEEDALGLPVWRQSHAAAPGGSHRHPPAGLPAAKGGTGVSGSPPKPWDCLPCRAHSLPSQS	62	Cavia porcellus	NPY	Pancreatic icosapeptide-like
+NP03939	SPLEPVYPGDNATPEEMAQYAAELRRYINMLTRPRY	36	Ceratotherium simum	NPY	Pancreatic hormone
+NP03940	APLEPVYPGDNATPEQMAQYAAEMRRYINMLTRPRY	36	Chinchilla chinchilla	NPY	Pancreatic hormone
+NP03941	APMEPVYPGDNATPEQMAQYAAELRRYINMLTRPRY	36	Equus caballus przewalskii	NPY	Pancreatic hormone
+NP03942	APMEPVYPGDNATPEQMAQYAAELRRYINMLTRPRY	36	Equus zebra	NPY	Pancreatic hormone
+NP03943	VPLEPVYPGDNATPEQMAHYAAELRRYINMLTRPRY	36	Erinaceus europaeus	NPY	Pancreatic hormone
+NP03944	APLEPVYPGDNATPEQMAQYAAELRRYINMLTRPRY	36	Felis catus	NPY	Pancreatic hormone
+NP03945	DRGETLDILEWGSPHAAAPR	20	Felis catus	NPY	Pancreatic icosapeptide
+NP03946	ASLEPEYPGDNATPEQMAQYAAELRRYINMLTRPRY	36	Ovis aries	NPY	Pancreatic hormone
+NP03947	DKEGTLDFLECGSPHSAVPR	20	Ovis aries	NPY	Pancreatic icosapeptide
+NP03948	SSPETLISDLLMREGTENVPRTRLEDPS	28	Sus scrofa	NPY	C-flanking peptide of NPY
+NP03949	APLEPVYPGDDATPEQMAQYAAELRRYINMLTRPRY	36	Sus scrofa	NPY	Pancreatic hormone
+NP03950	DEEDLLDLKCSSLHAAAPR	19	Sus scrofa	NPY	Pancreatic icosapeptide
+NP03951	APLEPVYPGDNATPEQMAQYAAELRRYINMLTRPRY	36	Tapirus pinchaque	NPY	Pancreatic hormone
+NP03952	YPTKPESPGPDATPEELAEYMTKIRQYINLVTRQRY	36	Varanus eremius	NPY	Goannatyrotoxin-Vere1
+NP03953	DKEGTLDFLECGSPHSAVPRY	21	Bos taurus	NPY	C-terminal peptide 1 (Potential)
+NP03954	DKEGTLDFLECGSPHSAVPRWVFSLSCVPRCLGQENGGV	39	Bos taurus	NPY	C-terminal peptide 2 (Potential)
+NP03955	APLEPEYPGDNATPEQMAQYAAELRRYINMLTRPRY	36	Bos taurus	NPY	Pancreatic hormone
+NP03956	YPAKPQAPGEHASPDELNRYYTSLRHYLNLVTRQRF	36	Bos taurus	NPY	Peptide YY
+NP03957	APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY	36	Homo sapiens	NPY	Pancreatic hormone
+NP03958	HKEDTLAFSEWGSPHAAVPR	20	Homo sapiens	NPY	Pancreatic icosapeptide
+NP03959	YPIKPEAPREDASPEELNRYYASLRHYLNLVTRQRY	36	Homo sapiens	NPY	Peptide YY
+NP03960	IKPEAPREDASPEELNRYYASLRHYLNLVTRQRY	34	Homo sapiens	NPY	Peptide YY(3-36)
+NP03961	APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY	36	Macaca mulatta	NPY	Pancreatic hormone
+NP03962	AEEENTGGLPGVQLSPCTSPPVGLIPCSAPWS	32	Mus musculus	NPY	C-terminal peptide
+NP03963	APLEPMYPGDYATPEQMAQYETQLRRYINTLTRPRY	36	Mus musculus	NPY	Pancreatic hormone
+NP03964	YPAKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY	36	Mus musculus	NPY	Peptide YY
+NP03965	DEDTAGLPGRQLPPCTSLLVGLMPCAAARS	30	Rattus norvegicus	NPY	C-terminal peptide
+NP03966	APLEPMYPGDYATHEQRAQYETQLRRYINTLTRPRY	36	Rattus norvegicus	NPY	Pancreatic hormone
+NP03967	YPAKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY	36	Rattus norvegicus	NPY	Peptide YY
+NP03968	VQNLATFKTMMRY	13	Tribolium castaneum	NPY	RYamide-1
+NP03969	ADAFFLGPRY	10	Tribolium castaneum	NPY	RYamide-2
+NP03970	GRNDLNFIRY	10	Apis mellifera	NPY	TWKSPDIVIRFa?FMRFa-like
+NP03971	EGFYSQRY	8	Callinectes sapidus	NPY	RYamide
+NP03972	FVGGSRY	7	Callinectes sapidus	NPY	RYamide
+NP03973	FYANRY	6	Callinectes sapidus	NPY	RYamide
+NP03974	FYSQRY	6	Callinectes sapidus	NPY	RYamide
+NP03975	SGFYANRY	8	Callinectes sapidus	NPY	RYamide
+NP03976	SGFYAPRY	8	Callinectes sapidus	NPY	RYamide
+NP03977	SRFVGGSRY	9	Callinectes sapidus	NPY	RYamide
+NP03978	SSRFVGGSRY	10	Callinectes sapidus	NPY	RYamide
+NP03979	VGFYANRY	8	Callinectes sapidus	NPY	RYamide
+NP03980	SGYNANRY	8	Callinectes sapidus	NPY	RYamide 
+NP03981	PAFYSQRY	8	Cancer borealis	NPY	PAFYSQRYa
+NP03982	EGFYSQRY	8	Cancer borealis	NPY	RYamide
+NP03983	FVGGSRY	7	Cancer borealis	NPY	RYamide
+NP03984	FVNSRY	6	Cancer borealis	NPY	RYamide
+NP03985	FYANRY	6	Cancer borealis	NPY	RYamide
+NP03986	FYSQRY	6	Cancer borealis	NPY	RYamide
+NP03987	SGFYANRY	8	Cancer borealis	NPY	RYamide
+NP03988	SSRFVGGSRY	10	Cancer borealis	NPY	RYamide
+NP03989	EGFYSQRY	8	Carcinus maenas	NPY	RYamide
+NP03990	FVGGSRY	7	Carcinus maenas	NPY	RYamide
+NP03991	FYANRY	6	Carcinus maenas	NPY	RYamide
+NP03992	FYSQRY	6	Carcinus maenas	NPY	RYamide
+NP03993	SGFYADRY	8	Carcinus maenas	NPY	RYamide
+NP03994	SGFYAPRY	8	Carcinus maenas	NPY	RYamide
+NP03995	SSRFVGGSRY	10	Carcinus maenas	NPY	RYamide
+NP03996	SEVRSRVASRSADERFFGGPRF	22	Daphnia pulex	NPY	RYamide 2
+NP03997	SGNGGIVLGNSELDARNPERFFIGSRY	27	Daphnia pulex	NPY	RYamide 3
+NP03998	QTFFTNGRY	9	Daphnia pulex	NPY	RYamide 1
+NP03999	EGFYSQRY	8	Litopenaeus vannamei	NPY	RYamide
+NP04000	SGFYANRY	8	Litopenaeus vannamei	NPY	RYamide
+NP04001	SEDRSAGNSLKDSSLFSSARF	21	Nasonia vitripennis	NPY	RYamide-2
+NP04002	SEDRNTGNSLRDSSSFFPARY	21	Nasonia vitripennis	NPY	RYamide-3
+NP04003	SEDRSTGNSLRDSSSFFPARF	21	Nasonia vitripennis	NPY	RYamide-4
+NP04004	SEDRSTGNSLKDSSSFSPARY	21	Nasonia vitripennis	NPY	RYamide-5
+NP04005	SEDRSSGNSLKESSFFSPGRY	21	Nasonia vitripennis	NPY	RYamide-6
+NP04006	SEGHKNPKELPKFFEIKPRVDQFFIGSRY	29	Nasonia vitripennis	NPY	RYamide-7
+NP04007	EGFYSQRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04008	FVGGSRY	7	Ocypode ceratophthalma	NPY	RYamide
+NP04009	FYANRY	6	Ocypode ceratophthalma	NPY	RYamide
+NP04010	FYSQRY	6	Ocypode ceratophthalma	NPY	Ryamide
+NP04011	SGFNSPSPRY	10	Ocypode ceratophthalma	NPY	RYamide
+NP04012	SGFYADRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04013	SGFYALRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04014	SGFYANRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04015	SGFYAPRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04016	SGFYCNRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04017	SGFYSDRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04018	SGFYSNRY	8	Ocypode ceratophthalma	NPY	RYamide
+NP04019	SSRFVGGSRY	10	Ocypode ceratophthalma	NPY	RYamide

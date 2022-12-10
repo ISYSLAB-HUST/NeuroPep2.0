@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.neuropeptide.entity.Receptor" table="receptor" catalog="neuropeptidedb">
+        <id name="id" type="java.lang.Integer">
+            <column name="id"/>
+            <generator class="native"></generator>
+        </id>
+
+        <property name="entryName" type="java.lang.String">
+            <column name="entry_name"/>
+        </property>
+        <property name="proteinName" type="java.lang.String">
+            <column name="protein_name"/>
+        </property>
+        <property name="geneName" type="java.lang.String">
+            <column name="gene_name"/>
+        </property>
+        <property name="organism" type="java.lang.String">
+            <column name="organism"/>
+        </property>
+        <property name="length" type="java.lang.Integer">
+            <column name="length"/>
+        </property>
+        <property name="function" type="java.lang.String">
+            <column name="function"/>
+        </property>
+        <property name="proteinFamily" type="java.lang.String">
+            <column name="protein_family"/>
+        </property>
+        <property name="taxonomicLinege" type="java.lang.String">
+            <column name="taxonomic_linege"/>
+        </property>
+        <property name="pubMedId" type="java.lang.String">
+            <column name="pub_med_id"/>
+        </property>
+        <property name="geneOnthologyIds" type="java.lang.String">
+            <column name="gene_onthology_ids"/>
+        </property>
+        <property name="tissueSpecificity" type="java.lang.String">
+            <column name="tissue_specificity"/>
+        </property>
+        <property name="sequence" type="java.lang.String">
+            <column name="sequence"/>
+        </property>
+    </class>
+</hibernate-mapping>
